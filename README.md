@@ -30,4 +30,4 @@ $ python3 main.py
 
 
 
-Contact me on discord if you have any issue: @zSodex#3828
+Contact me on whatsapp +923076480904
